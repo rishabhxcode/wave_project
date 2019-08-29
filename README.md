@@ -2,7 +2,8 @@
 
 A simple Flutter App of Wavy Animations, 
 "simple_animations 1.3.3" package and sin function is used to create this animations using ClipPath
-<img src="./wave_project/media/TinyTakebyMangoApps-29-08-2019-1.gif" width="360" height="640">
+<br>
+![alt-text](https://github.com/rishabhxcode/wave_project/blob/master/media/TinyTakebyMangoApps-29-08-2019-1.gif)
 
 ## Getting Started
 
