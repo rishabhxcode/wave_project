@@ -1,6 +1,8 @@
 # wave_project
 
-A new Flutter application.
+A simple Flutter App of Wavy Animations, 
+"simple_animations 1.3.3" package and sin function is used to create this animations using ClipPath
+
 
 ## Getting Started
 
